@@ -42,7 +42,7 @@ label {
 }
 
 .number-input {
-    width: 2rem;
+    width: 2rem 100%;
 }
 .password-display {
     background-color: white;
@@ -50,7 +50,7 @@ label {
     padding: 1rem;
     border: 1px solid rgb(23, 41, 72);
     height: 2rem;
-    width: 350px;
+    width: 350px 100%;
     display: flex;
     justify-content: center;
     align-content: center;
